@@ -5,7 +5,10 @@
 
 # Python
 __pycache__/
+*.pyc
 *.py[cod]
+*.pkl
+*.index
 *$py.class
 .Python
 *.so
